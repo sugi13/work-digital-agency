@@ -1,0 +1,6 @@
+        <div>
+        <h1>Create account</h1>
+        <p>Let's get started with your 30 days free trial</p>
+        </div>
+
+          font-family: 'Poppins', sans-serif;
